@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Bahadur Singh</h1>
+[<h1 align="center">Hi 👋, I'm Abhinav Bahadur Singh</h1>
 <h3 align="center">Developing a Developer</h3>
 
 - 👨‍💻 All of my projects are available at [--](--)
@@ -61,3 +61,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavbahadursingh&show_icons=true&locale=en&layout=compact" alt="abhinavbahadursingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavbahadursingh&" alt="abhinavbahadursingh" /></p>
+](https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/e7039c5b-b2bd-4077-ad4c-cdcc7d4fd290?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250220T181754Z&X-Amz-Expires=300&X-Amz-Signature=83c588b722ec32d9e286ac3ced4ffb360849bc4488ac4d23a69020b5c76ae809&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.48.1-64-bit.exe&response-content-type=application%2Foctet-stream)
