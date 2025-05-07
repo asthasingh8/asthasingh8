@@ -98,5 +98,5 @@
 
 
 Here are some ideas to get you started:
-- 📫 How to reach me: abhinavbahadursingh69@gmail.com
+- 📫 How to reach me: asthaaug08@gmail.com
 - ⚡ Fun fact: I think I am funny and so I am...!
